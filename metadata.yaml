@@ -1,9 +1,13 @@
 _repo: Tom-Sawyer-salapoliisina-Huck-Finnin-kertomus_47410
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Karjalainen, Hemminki
     gutenberg_agent_id: '44299'
     url: http://www.gutenberg.org/2009/agents/44299
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47410#Tom-Sawyer-salapoliisina-Huck-Finnin-kertomus
 gutenberg_issued: '2014-11-21'
 gutenberg_type: Text
 identifiers:
